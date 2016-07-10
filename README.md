@@ -1,2 +1,0 @@
-# barbershop
-training layout
